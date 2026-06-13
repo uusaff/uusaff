@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋, I'm Yousaf
 
-<!--
-**uusaff/uusaff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student. I enjoy solving complex problems and building efficient software.
 
-Here are some ideas to get you started:
+### 🛠️ Languages and Tools:
+*   **Languages:** C++, Assembly Language, Python, .NET
+*   **Core Concepts:** Data Structures, Algorithms, OOP
+*   **Tools:** Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Exploring:
+*   Data Structures & Algorithms (DSA)
+
+### 📫 How to reach me:
+*   **LinkedIn:** [linkedin.com/in/uusaff](https://www.linkedin.com/in/uusaff)
+*   **Email:** [uussaff@gmail.com](mailto:uussaff@gmail.com)
+*   **Instagram:** [@uusaff](https://www.instagram.com/uusaff)
+*   **Facebook:** [Yousaf Anwar](https://www.facebook.com/myousaf.anwar.1)
