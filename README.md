@@ -10,6 +10,7 @@ I'm a Computer Science student who enjoys solving complex problems, building eff
 
 ### 🚀 Recent Work:
 *   **UMT Academic Calculator:** Designed and developed a fully responsive React application to calculate semester GPA and Cumulative CGPA. Integrated real-time grading logic, dynamic visual validations (with custom animations 🎉), PDF export capabilities, and deployed it live via Vercel.
+*   **30-Day Productivity Dashboard:** Built a custom web-based habit tracker to monitor and visualize daily wellness and performance metrics. The application tracks daily step counts, focused research hours, sleep cycles, and nature exposure to promote a balanced routine.
 
 ### 🌱 Currently Exploring:
 *   Deep diving into Data Structures & Algorithms (DSA)
