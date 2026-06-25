@@ -1,14 +1,19 @@
 ## Hi there 👋, I'm Yousaf
 
-I'm a Computer Science student. I enjoy solving complex problems and building efficient software.
+I'm a Computer Science student who enjoys solving complex problems, building efficient software, and creating interactive web applications. 
 
 ### 🛠️ Languages and Tools:
-*   **Languages:** C++, Assembly Language, Python, .NET
-*   **Core Concepts:** Data Structures, Algorithms, OOP
-*   **Tools:** Git, GitHub
+*   **Frontend Web:** React.js, Tailwind CSS, HTML/CSS
+*   **Backend & Programming:** Node.js, C++, Python, .NET, Assembly Language
+*   **Core Concepts:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP)
+*   **Tools & Platforms:** Git, GitHub, Vite, Vercel
+
+### 🚀 Recent Work:
+*   **UMT Academic Calculator:** Designed and developed a fully responsive React application to calculate semester GPA and Cumulative CGPA. Integrated real-time grading logic, dynamic visual validations (with custom animations 🎉), PDF export capabilities, and deployed it live via Vercel.
 
 ### 🌱 Currently Exploring:
-*   Data Structures & Algorithms (DSA)
+*   Deep diving into Data Structures & Algorithms (DSA)
+*   Modern Full-Stack Web Development 
 
 ### 📫 How to reach me:
 *   **LinkedIn:** [linkedin.com/in/uusaff](https://www.linkedin.com/in/uusaff)
