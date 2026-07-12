@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yousaf</h1>
+<h1 align="center">Hi, I'm Yousaf</h1>
 <h3 align="center">Computer Science Student · Full-Stack Web Developer · UMT, Lahore</h3>
 
 <p align="center">
@@ -10,17 +10,17 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🎓 Computer Science student at the **University of Management and Technology (UMT), Lahore**
-- 💻 Focused on **full-stack web development** — I enjoy solving complex problems, building efficient software, and creating interactive, visually polished web applications
-- 🎨 My projects lean into a consistent aesthetic: **glassmorphism, dark themes, and animation-rich UI** powered by Framer Motion and Tailwind CSS
-- 🔌 Outside the browser, I also tinker with hardware — LED lighting systems and Bluetooth-controlled devices
-- 🌱 Currently deep-diving into **Data Structures & Algorithms** and modern full-stack patterns (MERN, Firebase, serverless functions, AI-integrated apps)
+- Computer Science student at the **University of Management and Technology (UMT), Lahore**
+- Focused on **full-stack web development** — I enjoy solving complex problems, building efficient software, and creating interactive, visually polished web applications
+- My projects lean into a consistent aesthetic: **glassmorphism, dark themes, and animation-rich UI** powered by Framer Motion and Tailwind CSS
+- Outside the browser, I also tinker with hardware — LED lighting systems and Bluetooth-controlled devices
+- Currently deep-diving into **Data Structures & Algorithms** and modern full-stack patterns (MERN, Firebase, serverless functions, AI-integrated apps)
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 **Frontend Web**
 <br>
@@ -54,10 +54,10 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <details open>
-<summary><b>🥗 Nutrition Cal. — AI-Powered Calorie Tracker</b></summary><br>
+<summary><b>Nutrition Cal. — AI-Powered Calorie Tracker</b></summary><br>
 
 - React app with a Firebase backend for auth and data storage
 - AI-powered calorie estimation using the Anthropic SDK
@@ -66,7 +66,7 @@
 </details>
 
 <details>
-<summary><b>📊 Exam Tracker — Neural Edition</b></summary><br>
+<summary><b>Exam Tracker — Neural Edition</b></summary><br>
 
 - Premium, SaaS-style exam tracker with a crimson/pink cyber palette and a canvas-based animated background
 - Rebuilt for performance: compositor-only animations, memoized components, and accessibility improvements
@@ -74,7 +74,7 @@
 </details>
 
 <details>
-<summary><b>✅ Habit Tracker</b></summary><br>
+<summary><b>Habit Tracker</b></summary><br>
 
 - Full habit-tracking app with Firebase authentication
 - Monthly views, dashboard statistics, and a tropical UI theme
@@ -82,7 +82,7 @@
 </details>
 
 <details>
-<summary><b>🎓 UMT GPA / CGPA Calculator</b></summary><br>
+<summary><b>UMT GPA / CGPA Calculator</b></summary><br>
 
 - Fully responsive React app to calculate semester GPA and Cumulative CGPA
 - Real-time grading logic with dynamic, animated visual validation
@@ -92,7 +92,7 @@
 </details>
 
 <details>
-<summary><b>🌐 Personal Portfolio</b></summary><br>
+<summary><b>Personal Portfolio</b></summary><br>
 
 - Built with Vite, React Router, and Framer Motion
 - Features a consistent custom "SignalPulse" SVG motif throughout the site
@@ -100,7 +100,7 @@
 </details>
 
 <details>
-<summary><b>💡 Bluetooth LED Control Engine</b></summary><br>
+<summary><b>Bluetooth LED Control Engine</b></summary><br>
 
 - Python engine to control a MohuanLED Bluetooth strip
 - Grew from a basic controller script into a v4.0 engine with 183 named lighting effects across 12 categories
@@ -109,36 +109,22 @@
 </details>
 
 <details>
-<summary><b>🧱 C++ Stack Tower Balance Game</b></summary><br>
+<summary><b>C++ Stack Tower Balance Game</b></summary><br>
 
 - Console game built in C++ using stack data structures
 - Built with a partner and successfully defended in an oral viva exam
 - 🔗 [Repo](https://github.com/uusaff/stack-tower-balance-game)
 </details>
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uusaff&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uusaff&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=uusaff&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 🌱 Currently Exploring
+### Currently Exploring
 - Data Structures & Algorithms (DSA)
 - Modern full-stack development (MERN + Firebase + serverless)
 - AI-integrated web applications
 
 ---
 
-### 📫 Connect With Me
+### Connect With Me
 
 <p align="left">
 <a href="https://linkedin.com/in/uusaff" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
